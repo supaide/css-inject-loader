@@ -15,7 +15,8 @@
     "sass",
     "inject",
     "loader",
-    "webpack"
+    "webpack",
+    "css var overload"
   ],
   "author": "cyij",
   "license": "MIT",
