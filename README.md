@@ -1,6 +1,11 @@
 # css-inject-loader
 自动注入全局依赖文件，用于覆盖less/sass变量定义
 
+# install
+```
+npm i css-inject-loader --save-dev
+```
+
 # Usage
 ```
 module: {
