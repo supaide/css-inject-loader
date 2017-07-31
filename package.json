@@ -1,0 +1,30 @@
+{
+  "name": "css-inject-loader",
+  "version": "1.0.0",
+  "description": "自动注入全局依赖文件，用于覆盖less/sass变量定义",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supaide/css-inject-loader.git"
+  },
+  "keywords": [
+    "less",
+    "sass",
+    "inject"
+  ],
+  "author": "cyij",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/supaide/css-inject-loader/issues"
+  },
+  "homepage": "https://github.com/supaide/css-inject-loader#readme",
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  },
+  "devDependencies": {
+    "webpack": "^3.4.1"
+  }
+}
