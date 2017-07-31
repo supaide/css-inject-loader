@@ -13,7 +13,9 @@
   "keywords": [
     "less",
     "sass",
-    "inject"
+    "inject",
+    "loader",
+    "webpack"
   ],
   "author": "cyij",
   "license": "MIT",
